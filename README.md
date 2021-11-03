@@ -8,10 +8,10 @@ The purpose of the analysis is to help Louise compare the success of her campaig
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-Kickstarters launched during May were most successful, with those being launched in December being the least successful, as can be seen by the graph labeled "Theater_Outcomes_vs_Launch.png".
+Kickstarters launched during May were most successful, with those being launched in December being the least successful, as can be seen by the graph labeled "Theater_Outcomes_vs_Launch.png". ![Outcomes_vs_Launch.png](https://github.com/Athenus/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
-Kickstarters with very small goals such as those less than $1,000 and those between $1,000 and $4,999 were the most successful. Those between $35,000 and $44,999 were only slightly less successful. Goals greater than or equal to $45,000 were extremely unlikely to succeed, and no kickstarters with goals between $45,000 to $49,999 succeeded. Goals between $25,000 and $34,999 were also very unlikely to succeed. This data can be seen with the graph labeled "Outcomes_vs_Goals.png". ![Outcomes_vs_Goals.png](https://github.com/Athenus/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
+Kickstarters with very small goals such as those less than $1,000 and those between $1,000 and $4,999 were the most successful. Those between $35,000 and $44,999 were only slightly less successful. Goals greater than or equal to $45,000 were extremely unlikely to succeed, and no kickstarters with goals between $45,000 to $49,999 succeeded. Goals between $25,000 and $34,999 were also very unlikely to succeed. This data can be seen with the graph labeled "Outcomes_vs_Goals.png". ![Outcomes_vs_Goals.png](https://github.com/Athenus/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
