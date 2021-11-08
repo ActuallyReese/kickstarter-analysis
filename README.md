@@ -6,6 +6,8 @@
 The purpose of the analysis is to help Louise compare the success of her campaign to the success and failure of other campaigns in relation to their launch date and goals.
 
 ## Analysis and Challenges
+One challenge I faced was when I was creating the graph for the Theater Outcomes vs Launch data set. My graph looked different from the example graph, even though I had everything set up as it should be. After some time, I figured out that I was organizing the data by whether it was successful or not, rather than organizing it by id numbers.
+
 
 ### Analysis of Outcomes Based on Launch Date
 Kickstarters launched during May were most successful, with those being launched in December being the least successful, as can be seen by the graph labeled "Theater_Outcomes_vs_Launch.png". ![Outcomes_vs_Launch.png](https://github.com/Athenus/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
